@@ -1,1 +1,1 @@
-This problem is proposed for solution in chapter 3 of the book "Hands-On Machine Learning with Scikit-Learn and TensorFlow" Aurelien Geron. Data taken from https://spamassassin.apache.org/old/PUiccorpus/
+This problem is proposed for solution in chapter 3 of the book "Hands-On Machine Learning with Scikit-Learn and TensorFlow" Aurelien Geron. Data taken from https://spamassassin.apache.org/old/PUiccorpus/, splitted and converted to numpy compressed npz archive
